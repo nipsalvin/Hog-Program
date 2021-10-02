@@ -4,6 +4,7 @@ int main ()
 int i = 0;
 int nmillions;
 /*do forever (for(;;))*/
+/*comment*/
 for (;;)		
 {
 	if 
